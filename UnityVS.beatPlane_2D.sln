@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.beatPlane_2D.CSharp", "UnityVS.beatPlane_2D.CSharp.csproj", "{CBD68988-667B-69DD-205D-EC9E001B752A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD68988-667B-69DD-205D-EC9E001B752A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD68988-667B-69DD-205D-EC9E001B752A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD68988-667B-69DD-205D-EC9E001B752A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD68988-667B-69DD-205D-EC9E001B752A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
